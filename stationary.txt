@@ -1,4 +1,3 @@
-calendars
 files
 eraser
 paper
@@ -6,9 +5,5 @@ pen
 pencil
 paper clips
 stapler
-<<<<<<< HEAD
 sharpeners
 thumb tacks
-=======
-sticky notes
->>>>>>> vendor-ravi
